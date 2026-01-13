@@ -1,0 +1,41 @@
+# The Weeknd – Nothing Is Lost (You Give Me Strength) (Official Visualizer)
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:31.26] I thought I could protect you from paying for my sins
+[00:46.00] And I been walking this earth long enough that death's a gift
+[00:59.69] Been living this life so patient until I see you again
+[01:26.69] 
+[01:07.86] It's war we're facing
+[01:11.78] I know that if I died my only choice is still defending
+[01:18.48] No matter what they say
+[01:22.02] My love for you is greater than their powers
+[01:26.92] And their armies from above you
+[01:42.42] 
+[01:30.87] Give me strength
+[01:37.36] I'm with you either way
+[01:42.34] If I die, if I stay, give me strength
+[01:52.46] I'm with you either way
+[01:57.51] Nothing is lost, no more pain
+[02:00.66] Just give me strength
+[02:11.16] 
+[02:16.98] The scars and the wounds
+[02:20.56] I wear them proud like tattoos
+[02:24.35] Reminds me that I lost you
+[02:28.23] Reminds me that I'll be living this life so patient
+[02:34.94] Until I see you again
+[02:45.44] 
+[02:38.61] It's war we're facing
+[02:42.58] I know that if I died my only choice is still defending
+[02:49.04] No matter what they say
+[02:52.69] My love for you is greater than their powers
+[02:57.53] And their armies from above you
+[03:13.03] 
+[03:01.28] Give me strength
+[03:07.91] I'm with you either way
+[03:13.16] If I die, if I stay, give me strength
+[03:23.05] I'm with you either way
+[03:28.26] Nothing is lost, no more pain
+[03:31.32] Just give me strength
+```
