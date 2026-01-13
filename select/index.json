@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Nothing Is Lost (You Give Me Strength) (Official Visualizer)",
+  "base_artist": "The Weeknd",
+  "createdAt": "2026-01-13T19:36:56.753620Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/01_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/02_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/03_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/04_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/05_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength) (From \"Avatar: The Way...",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/06_Nothing_Is_Lost_(You_Give_Me_Strength)_(From__Avatar__The_Way..._The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "The Weeknd - Nothing Is Lost (You Give Me Strength) (Official Lyric Video)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/07_The_Weeknd_-_Nothing_Is_Lost_(You_Give_Me_Strength)_(Official_Lyric_Video)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/08_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/09_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "Simon Franglen & The Weeknd",
+      "has_synced": true,
+      "path": "select/10_Nothing_Is_Lost_(You_Give_Me_Strength)_Simon_Franglen_&_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength) (From \"Avatar: The Way of Water\"/Soundtrack Version)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/11_Nothing_Is_Lost_(You_Give_Me_Strength)_(From__Avatar__The_Way_of_Water_Soundtrac_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength) (From \"Avatar: The Way of Water\"/Soundtrack Version)",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/12_Nothing_Is_Lost_(You_Give_Me_Strength)_(From__Avatar__The_Way_of_Water_Soundtrac_The_Weeknd.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nothing Is Lost (You Give Me Strength) - From \"Avatar: The Way of Water\"/Soundtrack Version",
+      "artist": "The Weeknd",
+      "has_synced": true,
+      "path": "select/13_Nothing_Is_Lost_(You_Give_Me_Strength)_-_From__Avatar__The_Way_of_Water_Soundtra_The_Weeknd.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Nothing Is Lost (You Give Me Strength)",
+      "artist": "The Weeknd",
+      "has_synced": false,
+      "path": "select/pl_01_Nothing_Is_Lost_(You_Give_Me_Strength)_The_Weeknd.txt"
+    }
+  ]
+}
